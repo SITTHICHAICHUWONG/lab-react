@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Sat Aug 15 2020 10:42:07 GMT+0700 (เวลาอินโดจีน)
+------------------------------------------------------
+
+Modified files:
+* package.json
+* yarn.lock
+
+
+Created files:
+
+
+Deleted files:
+
+
+Renamed files:
