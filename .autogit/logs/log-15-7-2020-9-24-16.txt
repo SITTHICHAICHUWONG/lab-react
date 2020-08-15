@@ -1,0 +1,18 @@
+-------------------- Auto-Git Log --------------------
+		Sat Aug 15 2020 09:24:16 GMT+0700 (เวลาอินโดจีน)
+------------------------------------------------------
+
+Modified files:
+* src/App.css
+* src/App.js
+
+
+Created files:
+* src/CharacterCard.js
+* src/WordCard.js
+
+
+Deleted files:
+
+
+Renamed files:
